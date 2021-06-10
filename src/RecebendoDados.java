@@ -13,7 +13,7 @@ public class RecebendoDados {
 		System.out.println("Que legal ter você aqui, " + nome);
 		
 		leitor.close();
-			
+		
 	}
 
 }
